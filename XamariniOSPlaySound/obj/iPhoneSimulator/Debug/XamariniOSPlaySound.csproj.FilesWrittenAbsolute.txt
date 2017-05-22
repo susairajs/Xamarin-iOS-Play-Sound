@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/bin/iPhoneSimulator/Debug/XamariniOSPlaySound.exe.mdb
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/bin/iPhoneSimulator/Debug/XamariniOSPlaySound.exe
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/XamariniOSPlaySound.exe
+/Users/DELPIN/Projects/XamariniOSPlaySound/XamariniOSPlaySound/obj/iPhoneSimulator/Debug/XamariniOSPlaySound.exe.mdb

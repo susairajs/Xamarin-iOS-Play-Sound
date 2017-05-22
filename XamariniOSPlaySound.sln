@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSPlaySound", "XamariniOSPlaySound\XamariniOSPlaySound.csproj", "{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Release|iPhone.ActiveCfg = Release|iPhone
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Release|iPhone.Build.0 = Release|iPhone
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{352DCBF2-7DC8-47A2-BAF3-45CA75D5AAB7}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
